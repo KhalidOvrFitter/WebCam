@@ -8,7 +8,7 @@ function App() {
       <header className="p-6 border-b border-gray-700">
         <div className="max-w-7xl mx-auto flex items-center gap-3">
           <Camera className="w-8 h-8 text-indigo-400" />
-          <h1 className="text-2xl font-bold">WebRTC Camera Interface</h1>
+          <h1 className="text-2xl font-bold">WebRTC Camera Interface Khalid Ghassan</h1>
         </div>
       </header>
 
